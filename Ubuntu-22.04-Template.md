@@ -7,6 +7,16 @@ By automating routine setup tasks, cloud-init ensures repeatability and efficien
 
 ### Step 1 -- Create Virtual Machine
 
+Create the VM by selecting below settings (Tweak the settings as per your convinience)
+
+<img width="550" height="411" alt="VM Settings" src="https://github.com/user-attachments/assets/b7d87d2d-37e1-4b5c-abc1-e056992c8cd9" />
+
+Now in Hadware section add Cloudinit Drive (Choose the Storage as per your choice)
+
+<img width="550" height="399" alt="image" src="https://github.com/user-attachments/assets/9b3c8e5e-b501-407f-878f-73bfd39d118b" />
+
+Now go to the Cloud-init tab and tweak some settings.
+
 
 
 
